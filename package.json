@@ -2,6 +2,7 @@
   "name": "city-tours",
   "version": "0.1.0",
   "private": true,
+"homepage":"https://domys.github.io/city-tours"
   "dependencies": {
     "node-sass": "^4.11.0",
     "react": "^16.8.3",
@@ -11,6 +12,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+"predeploy": "npm run build",
+ "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
