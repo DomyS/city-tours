@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/city-tours/static/css/main.dde6f38f.chunk.css",
+    "main.js": "/city-tours/static/js/main.7c7f2ea6.chunk.js",
+    "main.js.map": "/city-tours/static/js/main.7c7f2ea6.chunk.js.map",
+    "runtime~main.js": "/city-tours/static/js/runtime~main.6b8a86ca.js",
+    "runtime~main.js.map": "/city-tours/static/js/runtime~main.6b8a86ca.js.map",
+    "static/js/2.dfb0cf60.chunk.js": "/city-tours/static/js/2.dfb0cf60.chunk.js",
+    "static/js/2.dfb0cf60.chunk.js.map": "/city-tours/static/js/2.dfb0cf60.chunk.js.map",
+    "index.html": "/city-tours/index.html",
+    "precache-manifest.85071c6375e9e55dcec1b2e5effbdbbf.js": "/city-tours/precache-manifest.85071c6375e9e55dcec1b2e5effbdbbf.js",
+    "service-worker.js": "/city-tours/service-worker.js",
+    "static/css/main.dde6f38f.chunk.css.map": "/city-tours/static/css/main.dde6f38f.chunk.css.map"
+  }
+}
